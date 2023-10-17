@@ -2,7 +2,7 @@
 Hostel Management Systen Using PHP and MySQL.
 # Installation Steps(Configuration)
 1. Clone the  repository
-2. Put this file inside xampp/htdocs/
+2. Put the folder inside xampp/htdocs/
 # Database Configuration
 1. Open phpmyadmin
 2. Create Database hostel
