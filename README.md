@@ -8,5 +8,5 @@ Hostel Management Systen Using PHP and MySQL.
 2. Create Database hostel
 3. Import database hostel.sql
 4. Open Your browser and navigate to "http://localhost/hostel/"
-5. <br>
+<br>
 PS : The login details are found in the sql file or in the phpmyadmin interface after the sql file import.
